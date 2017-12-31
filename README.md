@@ -1,5 +1,5 @@
 # Forget Me Not
-## An experimental birthday countdown clock
+## An experimental birthday countdown app
 
 This is a component-based exercise in JS and jQuery skills development, based around the idea of creating a birthday countdown app.
 
