@@ -1,0 +1,25 @@
+{
+  "name": "flexbox-playground",
+  "version": "1.0.0",
+  "description": "Experimentation with flexbox grid",
+  "main": "index.js",
+  "dependencies": {
+    "flexbox-grid-mixins": "^0.1.3",
+    "moment": "^2.20.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolacarys/flexbox-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolacarys/flexbox-playground/issues"
+  },
+  "homepage": "https://github.com/nicolacarys/flexbox-playground#readme",
+  "private": "true"
+}

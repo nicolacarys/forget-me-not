@@ -1,0 +1,7 @@
+.DS_store
+node_modules/
+
+# sass files
+.sass-cache/
+*.css.map
+*styles.scss
